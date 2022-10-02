@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SVKDwQOwYYXkyEqlKJwCTz9/E3HWLQyXVU3/k9taFcT9CTqWNkuhdlePtOxvYsqeKPBLbryEF7cFAcxTJv2iwA==",
+  "success": true,
+  "projectFilePath": "D:\\REPOS\\EncoraChallenge\\ChallengeTestCases\\ChallengeTestCases\\ChallengeTestCases.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

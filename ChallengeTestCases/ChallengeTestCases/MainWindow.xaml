@@ -1,0 +1,24 @@
+﻿<Window x:Class="ChallengeTestCases.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ChallengeTestCases"
+        mc:Ignorable="d"
+        Title="Challenge - Juan Jose Mayora" Height="671" Width="474">
+    <Grid Background="LightGray">
+        <Label Content="STRING MANIPULATION: SORT OF STRINGS" HorizontalAlignment="Left" Margin="30,23,0,0" VerticalAlignment="Top"/>
+        <Button  Content="SORT" Margin="296,284,0,0" VerticalAlignment="Top" Height="42" Click="Button_Click" HorizontalAlignment="Left" Width="127"/>
+        <Label Content="RESULTS" HorizontalAlignment="Left" Margin="30,341,0,0" VerticalAlignment="Top"/>
+        <Label Content="Rearranged string in therms of frequency and lexicographycally order" HorizontalAlignment="Left" Margin="30,367,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="input"
+  TextWrapping="Wrap"
+  AcceptsReturn="True"
+  VerticalScrollBarVisibility="Visible" HorizontalAlignment="Left" Margin="31,54,0,0"  VerticalAlignment="Top" Width="392" Height="205"/>
+        <TextBox Name="output"
+  TextWrapping="Wrap"
+  AcceptsReturn="True"
+  VerticalScrollBarVisibility="Visible" HorizontalAlignment="Left" Margin="31,397,0,0" VerticalAlignment="Top" Width="392" Height="209"/>
+
+    </Grid>
+</Window>
