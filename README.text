@@ -1,2 +1,26 @@
 # EncoraChallenge
  Test Cases
+
+Postulant: Juan Jose Mayora
+
+
+WPF application using C# with .NET 5.0
+
+It has a XAML interface.
+
+Logic and development description:
+
+1. Split the raw text by lines
+2. Set the first line as the number of lines
+3. Create a Letter Class
+4. Set List<> of Letters (objects) for each line
+5. Set each object value of the List
+6. Handle the List of Object with LINQ METHODS
+
+Basically I've used two LINQ METHODS:
+* OrderByDescending (using frequency of repeated characters in each line)
+* ThenBy (to apply a second criteria based on lexographic value order).
+
+Links of screenshots:
+I've uploaded images and videos of the application and the test cases in the GitHub repository.
+

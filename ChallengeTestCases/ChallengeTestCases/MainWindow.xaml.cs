@@ -67,15 +67,12 @@ namespace ChallengeTestCases
                     MessageBox.Show(msg);
                 }
 
-
-
             }
             else
             {
                 MessageBox.Show("First line must be a number greater than zero");
             }
 
-            
         }
 
         private string sortingOperations(string line)
